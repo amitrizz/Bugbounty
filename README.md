@@ -32,4 +32,4 @@ copy your remote location from github by typing
 git remote add origin 'your repository link'   //here first run 'git remote rm origin' then add to origin command
 step-8
 
-push your code in github by typing git push -u origin master
+push your code in github by typing git push -u origin main
