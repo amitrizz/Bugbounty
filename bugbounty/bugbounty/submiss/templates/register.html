@@ -1,0 +1,71 @@
+{% extends "base.html" %} {% block content %}
+<div
+  style="
+    background: radial-gradient(#edfda3d0 30%, #f0aa12e9 100%);
+    width: 100%;
+    min-height: 100vh;
+    padding: 3%;
+  "
+>
+  <div
+    class="container"
+    style="
+      width: 450px;
+      background: linear-gradient(
+        #92a3f9 5%,
+
+        rgba(201, 249, 166, 0.923) 100%
+      );
+      height: 120vh;
+      box-shadow: 3px 3px 15px #181717;
+      border-radius: 5px;
+    "
+  >
+    <div class="text-center">
+      <h1 style="color: black;">Register</h1>
+    </div>
+    <form method="POST">
+      {{ form.hidden_tag() }}
+      <div class="form-group" style="color: black; font-weight: 600;">
+        {{ form.username.label(class="form-group") }}
+        {{form.username(class='form-control') }}<br />
+        {% for error in form.username.errors %}
+        <span style="color: red">[{{ error }}]</span><br />
+        {% endfor %}
+      </div>
+
+      <div class="form-group" style="color: black; font-weight: 600;">
+        {{ form.roll.label(class="form-group") }}
+        {{form.roll(class='form-control') }}<br />
+        {% for error in form.roll.errors %}
+        <span style="color: red">[{{ error }}]</span><br />
+        {% endfor %}
+      </div>
+
+      <div class="form-group" style="color: black; font-weight: 600;">
+        {{ form.roll2.label(class="form-group") }}
+        {{form.roll2(class='form-control') }}<br />
+        {% for error in form.roll2.errors %}
+        <span style="color: red">[{{ error }}]</span><br />
+        {% endfor %}
+      </div>
+
+      <div class="form-group" style="color: black; font-weight: 600;">
+        {{ form.password.label(class="form-group") }}
+        {{form.password(class='form-control') }}<br />
+        {% for error in form.password.errors %}
+        <span style="color: red">[{{ error }}]</span><br />
+        {% endfor %}
+      </div>
+      <div class="form-group" style="color: black; font-weight: 600;">
+        {{ form.pass_confirm.label(class="form-group") }}
+        {{form.pass_confirm(class='form-control') }}<br />
+      </div>
+      <div class="form-group text-center">
+        {{ form.submit(class="loginbtn") }}
+      </div>
+    </form>
+  </div>
+</div>
+
+{% endblock %}

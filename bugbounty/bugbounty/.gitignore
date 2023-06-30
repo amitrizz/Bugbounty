@@ -1,0 +1,6 @@
+*.sqlite
+.DS_Store
+__pycache__
+migrations/
+.env
+bugbounty/static/submission_pics/*
