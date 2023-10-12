@@ -24,3 +24,6 @@ flask db update
 step 5 py app.py  run flask app
 
 step 6 deactivate
+
+
+
