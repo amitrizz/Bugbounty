@@ -27,7 +27,7 @@ step 6 deactivate
 
 
 
-<b>This is submission portal</b>
+<h1>This is submission portal</h1>
 
 ![subhomepage](https://github.com/amitrizz/Bugbounty/assets/74492526/bdf75902-a349-4f50-94df-1438ea0f4fc4)
 this is home page of bug bounty submission portal
