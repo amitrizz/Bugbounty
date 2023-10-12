@@ -1,35 +1,26 @@
 # Bugbounty
 a event website where user find bug/vulnerabilities in website and get rewards 
 steps to upload floder or project to github from terminal
-Step-1:
 
-Download git from here
+step 1 download from GitHub
+git clone or download zip file
 
-Step-2:
+step 2 create virtualenv env  and activate
 
-Create a repository in github
+pip install virtualenv
 
-Step-3:
+virtualenv envirmentname/Scripts/activate  or try python envirmentname/Scripts/activate
 
-goto your project folder
+step 3 install all requirements needed in the project
 
-step-4
+pip install -r .\requirment.txt
 
-open git bash or cmd and initialize your project by typing git init
+step 4 to create database we need run db.create_all() in view.py inside @app.route("/") def function
+or we can do like 
+flask db init 
+flask db migrate
+flask db update
 
-step-5
+step 5 py app.py  run flask app
 
-add files by typing git add . for adding all file
-
-step-6
-
-commit your project by typing git commit -m 'your message'
-
-step-7
-
-copy your remote location from github by typing
-
-git remote add origin 'your repository link'   //here first run 'git remote rm origin' then add to origin command
-step-8
-
-push your code in github by typing git push -u origin main
+step 6 deactivate
