@@ -27,7 +27,7 @@ step 6 deactivate
 
 
 
-
+<b>This is submission portal</b>
 
 ![subhomepage](https://github.com/amitrizz/Bugbounty/assets/74492526/bdf75902-a349-4f50-94df-1438ea0f4fc4)
 this is home page of bug bounty submission portal
@@ -52,6 +52,32 @@ here user finds bugs and submits what bug he/she finds with an explanation.
 ![ReviewSubmission](https://github.com/amitrizz/Bugbounty/assets/74492526/a1a81b5c-97d6-4efb-85ed-50b384f8cf35)
 
 here we check the bug give bugid and add a point to the user on the basis of previously submitted bugsid. 
+
+
+<b>this is bugbus part</b>
+![Bug1](https://github.com/amitrizz/Bugbounty/assets/74492526/1ebcddd7-de50-49fb-8280-2a5e5c2f3da4)
+![bug2](https://github.com/amitrizz/Bugbounty/assets/74492526/44661f76-3662-4421-a340-a8133b4afc00)
+
+
+
+![bug3](https://github.com/amitrizz/Bugbounty/assets/74492526/9941785d-8aa5-4c32-980c-afec2ca524ec)
+
+
+
+
+![bug4](https://github.com/amitrizz/Bugbounty/assets/74492526/06aec6de-804f-4df4-995b-c76854382b02)
+![bug5](https://github.com/amitrizz/Bugbounty/assets/74492526/3e4848a8-27fe-4341-9bba-fdfa7de182b4)
+
+
+
+
+
+
+
+![bug6](https://github.com/amitrizz/Bugbounty/assets/74492526/1122522d-fef4-42fc-b006-4270c2326d2a)
+
+
+
 
 
 
