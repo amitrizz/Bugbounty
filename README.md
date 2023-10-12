@@ -30,3 +30,25 @@ step 6 deactivate
 
 
 ![subhomepage](https://github.com/amitrizz/Bugbounty/assets/74492526/bdf75902-a349-4f50-94df-1438ea0f4fc4)
+this is home page of bug bounty submission portal
+
+![admin pannel](https://github.com/amitrizz/Bugbounty/assets/74492526/7a4a72d3-1647-4388-85f3-87a9839771b4)
+
+In the admin panel, we will review all submissions, announcements to all users or specific users, user feedback,
+all user admin or player, search by userId
+
+
+
+![leaderboard](https://github.com/amitrizz/Bugbounty/assets/74492526/cff2d9a9-3f08-4f95-9789-a304070d3cf0)
+
+here all users scorecard with userID as well as team name, here team name is unique, and the roll no also,
+on user can not be part of two teams.
+
+
+![Submit answer](https://github.com/amitrizz/Bugbounty/assets/74492526/3bac43e5-0df3-46b3-9b3b-eda2fc601c3e)
+
+here user finds bugs and submits what bug he/she finds with an explanation.
+
+
+
+
