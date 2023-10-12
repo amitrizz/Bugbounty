@@ -67,7 +67,7 @@ on user can not be part of two teams.</h3>
 
 
 
-<h1>this is bugbus part</h1>
+<h1>That is bugbus part</h1>
 <br>
 <br>
 <h3>That is bug one, In that we choose the previous date but this should not happen</h3>
