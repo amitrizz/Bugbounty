@@ -28,6 +28,7 @@ step 6 deactivate
 
 
 <h1>This is submission portal</h1>
+<br>
 
 ![subhomepage](https://github.com/amitrizz/Bugbounty/assets/74492526/bdf75902-a349-4f50-94df-1438ea0f4fc4)
 this is home page of bug bounty submission portal
@@ -54,7 +55,8 @@ here user finds bugs and submits what bug he/she finds with an explanation.
 here we check the bug give bugid and add a point to the user on the basis of previously submitted bugsid. 
 
 
-<b>this is bugbus part</b>
+<h1>this is bugbus part</h1>
+<br>
 ![Bug1](https://github.com/amitrizz/Bugbounty/assets/74492526/1ebcddd7-de50-49fb-8280-2a5e5c2f3da4)
 ![bug2](https://github.com/amitrizz/Bugbounty/assets/74492526/44661f76-3662-4421-a340-a8133b4afc00)
 
