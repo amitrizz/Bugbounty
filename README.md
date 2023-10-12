@@ -27,3 +27,6 @@ step 6 deactivate
 
 
 
+
+
+![subhomepage](https://github.com/amitrizz/Bugbounty/assets/74492526/bdf75902-a349-4f50-94df-1438ea0f4fc4)
