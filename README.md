@@ -49,6 +49,9 @@ on user can not be part of two teams.
 
 here user finds bugs and submits what bug he/she finds with an explanation.
 
+![ReviewSubmission](https://github.com/amitrizz/Bugbounty/assets/74492526/a1a81b5c-97d6-4efb-85ed-50b384f8cf35)
+
+here we check the bug give bugid and add a point to the user on the basis of previously submitted bugsid. 
 
 
 
