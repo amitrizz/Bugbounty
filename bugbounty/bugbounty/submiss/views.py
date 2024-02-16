@@ -6,7 +6,7 @@ from submiss.forms import LoginForm, RegistrationForm,SubmissionForm,FeedbackFor
 from datetime import datetime
 from submiss.picture_handler import add_submission_pic
 
-admin=[205321018]
+admin=[205121016]
 @app.context_processor
 def info():
     def score():
